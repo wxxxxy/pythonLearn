@@ -1,6 +1,6 @@
 #待测试类Dict
 class Dict(dict):
-
+	
     def __init__(self, **kw):
         super().__init__(**kw)
 

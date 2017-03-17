@@ -1,0 +1,1 @@
+{"attribute": ["cute", "handsome", "clever"], "name": "wxy", "age": "23", "work": "hongda"}

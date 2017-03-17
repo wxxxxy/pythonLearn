@@ -1,4 +1,3 @@
-
 print('输入输出测试:')
 name=input("Please entry your name:")
 num=int(input('Please entry a number:'))
